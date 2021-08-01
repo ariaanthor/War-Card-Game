@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=War
+comment1.params=
+comment1.target=War()
+comment2.params=
+comment2.target=void\ turn()
+comment3.params=c1\ c2\ cnt
+comment3.target=void\ turn(Card,\ Card,\ int)
+comment4.params=
+comment4.target=void\ stats()
+comment5.params=
+comment5.target=boolean\ run()
+numComments=6
